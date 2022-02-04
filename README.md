@@ -11,3 +11,5 @@ Also since the code is pretty rough there probably a whole bunch of bugs, and th
 or spelling errors.
 
 And just to get something that works, the algorithm it uses to pick the movie is super simple, and it can also pick one of the movies you input.
+
+https://finnphayerlsu.github.io/FlickPickProofOfConcept/3380ProofOfConcept/
