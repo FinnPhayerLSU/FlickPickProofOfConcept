@@ -25,6 +25,7 @@ function setup() {
   for(let q = 0; q < sugg.getRowCount(); q++){
     for(let w = 0; w < sugg.getColumnCount(); w++){
       b[w] = sugg.getString(q,w);
+      print(sugg.getString(q,w));
     }
     suggestions[q] = new Movie(b[0],b[1],b[2],b[3]);
   }
